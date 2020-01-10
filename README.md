@@ -1,4 +1,5 @@
 # ACFYandex
+<<<<<<< HEAD
 === ACF:Yandex ===
 Contributors: programmiste1
 Tags: ACF, advanced custom fields, yandex, map, карта, поля, поле, яндекс
@@ -36,3 +37,9 @@ License URI: https://www.gnu.org/licenses/license-list.html#GPLCompatibleLicense
 2. Создайте поле с типом Яндекс карта
 3. Определите метку на карте и установите Шорткод
 4. Результат работы плагина
+=======
+# Плагин WordPress
+# Данный плагин позволит вам легко организовывать и вставлять дополнительные свободные поля. Данный плагин является расширением Advanced Custom Fields (https://www.advancedcustomfields.com/, https://ru.wordpress.org/plugins/advanced-custom-fields/).
+# В своей работ плагин использует API Яндекса, используя данный плагин Вы так же должны соблюдать лицензионные условия данной стороны. Внимательно читайте лицензионные условия при получении API ключа Яндекс (https://yandex.ru/dev/).
+# После активации плагина зайдите в раздел Настройки - ACF:Yandex для того, чтобы указать имеющиеся API ключи.
+>>>>>>> f05a35d3aef51b96e75a25a641705af1999f46f3
